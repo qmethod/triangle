@@ -1,0 +1,4 @@
+{
+   
+    "plugins": ["katex","toggle-chapters","mathjax"] 
+}
