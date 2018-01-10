@@ -2,9 +2,9 @@
 
 解答：\(1\)  ![](/assets/60degree.jpg)   \(2\)  ![](/assets/milus60degree.jpg)
 
-            \(3\) ![](/assets/240degree.jpg)   
+            
 
-             \(4\)   ![](/assets/420degree.jpg)
+
 
 例題2：試劃出下列無向角\(1\) 60° \(2\) 170° \(3\) 250°
 
