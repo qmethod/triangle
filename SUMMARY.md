@@ -30,10 +30,10 @@
       * [1.4 解答:定義2](chapter1/13/14-jie-7b543a-ding-yi-2.md)
   * [1.5 綜合評量\(Evaluation\)](chapter1/14-tui-dao-ping-945128-evaluation.md)
 * [2 三角函數定義](12-san-jiao-han-shu-ding-yi.md)
-  * 2.1 問題\(Question\)
+  * [2.1 問題\(Question\)](12-san-jiao-han-shu-ding-yi/21-wen-984c28-question.md)
   * 2.2 方法\(Method\)
   * 2.3 定理證明\(Proof\)
-  * 2.4 特殊化\(Specialization\)
+  * [2.4 特殊化\(Specialization\)](12-san-jiao-han-shu-ding-yi/24-te-shu-531628-specialization.md)
   * [2.5 綜合評鑑\(Evaluation\)](12-san-jiao-han-shu-ding-yi/25.md)
 * 3  一般角的三角函數
 * 4 三角測量
