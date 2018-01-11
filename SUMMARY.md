@@ -18,6 +18,7 @@
     * [1.2 M4:定理2](chapter1/11-q41/11-m4ding-li.md)
     * [1.2 M5:定理3](chapter1/11-q1/12-m5ding-li-3.md)
     * [1.2 M6:定理4](chapter1/11-q1/12-m6ding-li-4.md)
+    * [1.2 M7:定理5](chapter1/11-q1/12-m7ding-li-5.md)
   * [1.3 定理證明\(proof\)](chapter1/13-zheng-660e28-proof.md)
     * [1.3 Pf:定理1](chapter1/13-zheng-660e28-proof/13-pfding-li-1.md)
     * [1.3 Pf:定理2](chapter1/13-zheng-660e28-proof/13-pfding-li-2.md)
