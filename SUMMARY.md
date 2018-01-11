@@ -1,5 +1,6 @@
 # Summary
 
+* [編輯方式](bian-ji-fang-shi.md)
 * [0 簡介](README.md)
 * [1 角的度量](chapter1.md)
   * [1.1 問題\(Question\)](chapter1/11-wen-ti.md)
@@ -31,7 +32,7 @@
   * [1.5 綜合評量\(Evaluation\)](chapter1/14-tui-dao-ping-945128-evaluation.md)
 * [2 三角函數定義](12-san-jiao-han-shu-ding-yi.md)
   * [2.1 問題\(Question\)](12-san-jiao-han-shu-ding-yi/21-wen-984c28-question.md)
-  * 2.2 方法\(Method\)
+  * [2.2 方法\(Method\)](12-san-jiao-han-shu-ding-yi/22-fang-6cd528-method.md)
   * 2.3 定理證明\(Proof\)
   * [2.4 特殊化\(Specialization\)](12-san-jiao-han-shu-ding-yi/24-te-shu-531628-specialization.md)
   * [2.5 綜合評鑑\(Evaluation\)](12-san-jiao-han-shu-ding-yi/25.md)
