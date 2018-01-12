@@ -30,9 +30,17 @@
   * 2.3 定理證明\(Proof\)
   * [2.4 特殊化\(Specialization\)](12-san-jiao-han-shu-ding-yi/24-te-shu-531628-specialization.md)
   * [2.5 綜合評鑑\(Evaluation\)](12-san-jiao-han-shu-ding-yi/25.md)
-* 3  一般角的三角函數
+* [3  一般角的三角函數](3-yi-ban-jiao-de-san-jiao-han-shu.md)
+  * 3.1 問題\(Question\)
+  * [3.2  方法\(Method\)](3-yi-ban-jiao-de-san-jiao-han-shu/32-fang-6cd528-method.md)
+  * 3.3 定理證明\(Proof\)
+  * 3.4 特殊化\(Specialization\)
+  * 3.5 綜合評鑑\(Evaluation\)
 * 4 三角測量
+  * 4.1 問題\(Question\)
+  * 4.2 方法\(Method\)
+  * 4.3 定理證明\(Proof\)
+  * 4.4 特殊化\(Specialization\)
+  * 4.5 綜合評鑑\(Evauation\)
 * 5 廣泛之應用性\(App\)
-
-
 
