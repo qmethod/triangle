@@ -37,7 +37,7 @@
   * 3.4 特殊化\(Specialization\)
   * 3.5 綜合評鑑\(Evaluation\)
 * 4 三角測量
-  * 4.1 問題\(Question\)
+  * [4.1 問題\(Question\)](41-wen-984c28-question.md)
   * 4.2 方法\(Method\)
   * 4.3 定理證明\(Proof\)
   * 4.4 特殊化\(Specialization\)
